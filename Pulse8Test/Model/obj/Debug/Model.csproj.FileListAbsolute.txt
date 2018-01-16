@@ -1,0 +1,6 @@
+E:\Examples\Pulse8Test\Model\bin\Debug\Model.dll
+E:\Examples\Pulse8Test\Model\bin\Debug\Model.pdb
+E:\Examples\Pulse8Test\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\Examples\Pulse8Test\Model\obj\Debug\Model.dll
+E:\Examples\Pulse8Test\Model\obj\Debug\Model.pdb
+E:\Examples\Pulse8Test\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
